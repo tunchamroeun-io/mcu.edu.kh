@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{G76N:function(n,t,e){"use strict";e.r(t);var a={name:"Library"},r=e("KHd+"),s=Object(r.a)(a,(function(){var n=this.$createElement,t=this._self._c||n;return t("vx-card",{attrs:{"no-radius":"","no-shadow":""}},[t("h3",[this._v("Coming !")])])}),[],!1,null,"d953493e",null);t.default=s.exports}}]);
